@@ -1,0 +1,7 @@
+.box {
+box-shadow: 5px 5px 5px 5px gray;
+} 
+.box:hover {
+transform: scale(1.1);
+transition: transform .3s ease-out
+}
